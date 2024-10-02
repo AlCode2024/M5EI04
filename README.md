@@ -1,6 +1,6 @@
-# Sistema de Registro de Usuarios 2.0
+# Sistema de Registro de Usuarios 4.0 M5EI04
 
-Este proyecto es un sistema básico de gestión de usuarios en Kotlin. Permite agregar, consultar y eliminar usuarios, mostrando los datos ingresados de cada usuario registrado.
+Sistema de gestión de usuarios en Kotlin. Permite agregar, consultar y eliminar usuarios, mostrando los datos ingresados de cada usuario registrado.
 
 ## Descripción
 
