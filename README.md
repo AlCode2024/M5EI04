@@ -1,12 +1,12 @@
 # Sistema de Registro de Usuarios 2.0
 
-Este proyecto es un sistema básico de gestión de usuarios en Kotlin. Permite agregar, consultar y eliminar usuarios, mostrando los datos relevantes de cada usuario registrado.
+Este proyecto es un sistema básico de gestión de usuarios en Kotlin. Permite agregar, consultar y eliminar usuarios, mostrando los datos ingresados de cada usuario registrado.
 
 ## Descripción
 
 El sistema permite realizar las siguientes operaciones:
 
-- **Agregar un usuario**: Se requiere el nombre del usuario, mientras que la edad, el trabajo y la referencia son opcionales.
+- **Agregar un usuario**: Se requiere el nombre del usuario, mientras que la edad, el trabajo y la referencia son opcionales. Se hace control del null
 - **Consultar la lista de usuarios**: Muestra una lista de los usuarios registrados y sus datos.
 - **Eliminar un usuario**: Elimina un usuario de la lista utilizando su nombre.
 - **Salir del sistema**: Opción para finalizar la ejecución.
